@@ -2,11 +2,6 @@
 
 # dependencies
 /node_modules
-<<<<<<< HEAD
-=======
-/package-lock.json
-/yarn.lock
->>>>>>> b5eda8bc730cf972d5a428388fd677e20b701b0a
 /.pnp
 .pnp.js
 .yarn/install-state.gz
@@ -31,10 +26,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
-<<<<<<< HEAD
-=======
 .env
->>>>>>> b5eda8bc730cf972d5a428388fd677e20b701b0a
 .env*.local
 
 # vercel
